@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "150127423465",
+    "project_id": "englishvipleveltest",
+    "storage_bucket": "englishvipleveltest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150127423465:android:073ac167ed35195f00e578",
+        "android_client_info": {
+          "package_name": "com.islamamer.english_vip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150127423465-cpsl0s1dkn165f8p2om089edjdr8qnsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1SoSzr7UpPYs6lUF92A0iXAme7sbCjHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150127423465-cpsl0s1dkn165f8p2om089edjdr8qnsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
